@@ -3,7 +3,7 @@
 def countdown
   x = 10
 i = 10
-while i < 10
+while i > 0
    puts i
    i -= 1
    
