@@ -2,10 +2,10 @@
 
 def countdown
   x = 10
-i = 0
-while i < 5
+i = 10
+while i < 10
    puts i
-   i += 1
+   i -= 1
    
 end
 puts "HAPPY NEW YEAR!"
